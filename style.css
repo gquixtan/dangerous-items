@@ -1,0 +1,16 @@
+.jumbotron {
+	color: white;
+	font-weight: bold;
+	background-color: rgb(255,153,153);
+}
+.navbar {
+	background-image: url(img/sparkly-white-star.jpg);
+	font-size: 2rem;
+	color: white;
+	font-weight: bold;
+}
+.report {
+	border: solid 6px rgb(255,153,153);
+	margin: 8px;
+	padding: 10px;
+}
